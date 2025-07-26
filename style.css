@@ -63,7 +63,7 @@ header {
 }
 
 .logo{
-    background-image: url("amazon_logo\ \(1\).png");
+    background-image: url("./assets/amazon_logo\ \(1\).png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -368,7 +368,7 @@ span {
 .hero-section {
     background-color: #eaeded;
     padding: 8px 0;
-    background-image: url("hero_image.jpg");
+    background-image: url("./assets/hero_image.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
